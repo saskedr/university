@@ -1,0 +1,41 @@
+h1 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: #00838f;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: #00834f;
+  }
+
+  h1 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-align: left;
+    color: #30484b;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-align: right;
+    color: #6f128b;
+  }
+
+  h4 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: #b60e0e;
+  }
+
+  h5 {
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    text-align: center;
+    color: #6fa53d;
+  }

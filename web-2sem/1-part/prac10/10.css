@@ -1,0 +1,9 @@
+div {
+    background-image: url("https://english.mirea.ru/upload/medialibrary/1b3/01.jpg");
+    background-size: cover;
+}
+
+
+.center-img {
+    text-align: center;
+}
