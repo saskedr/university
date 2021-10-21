@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    margin-bottom: 0%;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 30px;
+}
+
+ol {
+    font-size: 25px;
+}
+
+ul {
+    font-size: 25px;
+}
+
+.image {
+    display: block;
+    margin:auto;
+    width: 50cw;
+    height: 50ch;
+}
+
+#phone {
+    text-align: center;
+}
